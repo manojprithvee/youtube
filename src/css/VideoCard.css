@@ -1,0 +1,8 @@
+.video-card{
+    display: flex !important;
+    align-items: center;
+    cursor: pointer;
+}
+.video-card.item img{
+    max-width: 180px;
+}
